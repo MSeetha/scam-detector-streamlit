@@ -1,0 +1,69 @@
+Captions,Predicted_Label
+"['busy', 'work', 'week']",Not Scam
+"['click', 'claim', 'free', 'gift']",Scam
+"['elevate', 'campaigns', 'us']",Not Scam
+"['sephora', 'giveaway']",Scam
+"['paisley', 'print']",Not Scam
+['dg'],Not Scam
+"['giveaway', 'alert']",Scam
+"['home', 'make', 'fivestar']",Not Scam
+"['watches', 'watch', 'watchesofinstagram', 'watchcollector', 'watchoftheday', 'watchaddict', 'watchfam', 'watchlover', 'wristwatch', 'rolex', 'fashion', 'instawatch', 'watchgeek', 'horology', 'watchnerd', 'watchphotography', 'timepiece', 'watchmania', 'luxury', 'luxurywatches', 'wristshot', 'dailywatch', 'jamtangan', 'watchcollection', 'seiko', 'luxurywatch', 'wristporn', 'onlineshopping', 'watchuseek', 'style']",Not Scam
+"['last', 'one', 'today', 'thankyou', 'everyone', 'natural', 'australian', 'opal', 'doublets', 'ct', 'reference', 'coin', 'penny', 'mm', 'please', 'claim', 'mine', 'first', 'class', 'usps', 'shipping', 'international', 'shipping', 'canada', 'please', 'send', 'dm', 'international', 'first', 'one', 'claim', 'mine', 'wins', 'natural', 'bestdeals', 'turquoise', 'sale', 'turquoiseterritory', 'turquoise', 'diamonds', 'cab', 'cabs', 'cabochon', 'cabochonmaker', 'cabsforsale', 'camericanturquoiseabsupplier', 'turquoise', 'nevada', 'forsale', 'turquoiseoverdiamonds', 'cabsforsale', 'cabachonsupplier', 'cabachons', 'silversmith', 'turquoisejewelry', 'turquoiseterritory', 'cabsforsale', 'instasmithy', 'roystonturquoise', 'sonorangoldturquoise']",Scam
+"['persnliche', 'frage', 'seit', 'wann', 'sammelst', 'du']",Not Scam
+['dg'],Not Scam
+"['noticed', 'suspicious', 'activity', 'account']",Not Scam
+"['free', 'screening']",Not Scam
+"['comes', 'wardrobe', 'essentials', 'trusty', 'white', 'tshirt', 'wrong', 'whether', 'desire', 'slimfit', 'style', 'prefer', 'vintage', 'look', 'rounding', 'bestselling', 'reviewerapproved', 'white', 'tshirts', 'style', 'preference', 'budget']",Not Scam
+"['much', 'fun', 'meeting', 'everyone', 'mizzou', 'housing', 'fair', 'hope', 'place', 'assist', 'housing', 'needs', 'sure', 'check', 'emails', 'weve', 'already', 'reached', 'connect']",Not Scam
+"['stay', 'warm', 'stay', 'stylish', 'signature', 'crewnecks', 'salebecause', 'deserve', 'comfort', 'without', 'compromise', 'enjoy', 'code', 'crew']",Not Scam
+"['flash', 'giveaway']",Scam
+"['tmc', 'tshirt', 'giveaway']",Scam
+"['natural', 'australian', 'opal', 'doublets', 'ct', 'reference', 'coin', 'penny', 'mm', 'please', 'claim', 'mine', 'first', 'class', 'usps', 'shipping', 'international', 'shipping', 'canada', 'please', 'send', 'dm', 'international', 'first', 'one', 'claim', 'mine', 'wins', 'natural', 'bestdeals', 'turquoise', 'sale', 'turquoiseterritory', 'turquoise', 'diamonds', 'cab', 'cabs', 'cabochon', 'cabochonmaker', 'cabsforsale', 'camericanturquoiseabsupplier', 'turquoise', 'nevada', 'forsale', 'turquoiseoverdiamonds', 'cabsforsale', 'cabachonsupplier', 'cabachons', 'silversmith', 'turquoisejewelry', 'turquoiseterritory', 'cabsforsale', 'instasmithy', 'roystonturquoise', 'sonorangoldturquoise']",Scam
+"['respond', 'message', 'reactivate', 'account']",Not Scam
+"['limited', 'time', 'offer', 'get', 'deal']",Scam
+"['scam', 'alert', 'protect']",Scam
+"['march', 'giveaway']",Scam
+"['exclusive', 'berry', 'crumble', 'giveaway']",Scam
+"['trouser', 'fashion', 'trousers', 'tshirt', 'tracksuit', 'hoodies', 'style', 'tracksuits', 'usa', 'shirt', 'sportswear', 'clothing', 'pants', 'hoodie', 'tshirts', 'pant', 'jacket', 'apparel', 'uk', 'dress', 'instagram', 'trouserstyles', 'pakistan', 'jeans', 'gymwear', 'ootd', 'onlineshopping', 'activewear', 'shorts', 'streetwear']",Not Scam
+['preorder'],Not Scam
+"['swag', 'giveaway']",Scam
+"['playerspass', 'giveaway', 'piece', 'cricket', 'greatness']",Scam
+['winitwednesday'],Not Scam
+"['hadiah', 'mingguan', 'untuk', 'semua', 'player']",Not Scam
+"['day', 'life', 'precision', 'every', 'second', 'tells', 'story']",Not Scam
+"['techno', 'trade', 'solutions', 'limited']",Not Scam
+"['natural', 'australian', 'opal', 'doublets', 'ct', 'reference', 'coin', 'penny', 'mm', 'please', 'claim', 'mine', 'first', 'class', 'usps', 'shipping', 'international', 'shipping', 'canada', 'please', 'send', 'dm', 'international', 'first', 'one', 'claim', 'mine', 'wins', 'natural', 'bestdeals', 'turquoise', 'sale', 'turquoiseterritory', 'turquoise', 'diamonds', 'cab', 'cabs', 'cabochon', 'cabochonmaker', 'cabsforsale', 'camericanturquoiseabsupplier', 'turquoise', 'nevada', 'forsale', 'turquoiseoverdiamonds', 'cabsforsale', 'cabachonsupplier', 'cabachons', 'silversmith', 'turquoisejewelry', 'turquoiseterritory', 'cabsforsale', 'instasmithy', 'roystonturquoise', 'sonorangoldturquoise']",Scam
+"['stay', 'away']",Not Scam
+"['giveaway', 'time', 'much', 'little', 'spring', 'break', 'auburn']",Scam
+"['scam', 'alert']",Scam
+"['swiftcryptox', 'scamming', 'crypto', 'users', 'stealing', 'funds', 'refusing', 'withdrawals']",Not Scam
+"['peace', 'youtubenardonation']",Not Scam
+"['natural', 'australian', 'opal', 'doublets', 'ct', 'reference', 'coin', 'penny', 'mm', 'please', 'claim', 'mine', 'first', 'class', 'usps', 'shipping', 'international', 'shipping', 'canada', 'please', 'send', 'dm', 'international', 'first', 'one', 'claim', 'mine', 'wins', 'natural', 'bestdeals', 'turquoise', 'sale', 'turquoiseterritory', 'turquoise', 'diamonds', 'cab', 'cabs', 'cabochon', 'cabochonmaker', 'cabsforsale', 'camericanturquoiseabsupplier', 'turquoise', 'nevada', 'forsale', 'turquoiseoverdiamonds', 'cabsforsale', 'cabachonsupplier', 'cabachons', 'silversmith', 'turquoisejewelry', 'turquoiseterritory', 'cabsforsale', 'instasmithy', 'roystonturquoise', 'sonorangoldturquoise']",Scam
+"['auction', 'day', 'time', 'almost', 'bid', 'l', 'jg', 'stickley', 'quartersawn', 'oak', 'grandfather', 'clock', 'model', 'february', 'th', 'th', 'mcm', 'arts', 'crafts', 'auctionsmclarenauctioncom', 'view', 'entire', 'catalog', 'get', 'registered', 'bid']",Not Scam
+"['upcoming', 'launch', 'sunflower', 'khadhi', 'cotton']",Not Scam
+"['aldo', 'sifarisimiz', 'ox', 'irin']",Not Scam
+"['asked', 'listened', 'bringing', 'back', 'inch', 'stainless', 'steel', 'boning', 'knife']",Not Scam
+"['still', 'submit', 'reports', 'consumer', 'financial', 'protection', 'bureau', 'cfpb', 'federal', 'trade', 'commission', 'ftc', 'youre', 'victim', 'fraud', 'think', 'might', 'targeted', 'links', 'instructions', 'wwwlacsnorgfraud', 'agencies', 'well', 'nvattorneygeneral', 'bbbsouthnv']",Not Scam
+"['road', 'followers', 'want', 'celebrate']",Not Scam
+"['quality', 'every', 'stitch', 'detail', 'every', 'angle']",Not Scam
+"['harleydavidson', 'xln', 'sportster', 'iron', 'miles']",Not Scam
+"['celebrate', 'fat', 'tuesday', 'us', 'pig', 'delicious', 'paczki']",Not Scam
+"['hunny', 'im', 'home', 'yarn', 'tshirt']",Not Scam
+"['new', 'arrival', 'ramzan']",Not Scam
+"['stu', 'par', 'pemnang', 'mdal', 'rech', 'dijmn', 'mnang', 'bnyk']",Not Scam
+"['click', 'link', 'claim', 'free', 'reward']",Scam
+"['rb', 'tackle', 'disgrace', 'fishing', 'industry', 'owner', 'racist', 'discriminates', 'lifestyles', 'supporting', 'store', 'silly', 'scamming', 'tournaments', 'smart', 'dont', 'say', 'didnt', 'warn', 'margate', 'florida', 'offers', 'another', 'shop', 'welcomed', 'cared', 'check']",Not Scam
+"['doesnt', 'want', 'free', 'money', 'support', 'good', 'cause', 'small', 'businesses', 'well', 'adorable', 'items', 'make', 'smile', 'every', 'time', 'see']",Scam
+"['waiting', 'payday']",Not Scam
+"['chocolate', 'wedding', 'babyshower', 'graduation', 'party', 'giveaway']",Scam
+"['need', 'help', 'recovering', 'funds', 'bpstockpro', 'theyre', 'blocking', 'withdrawals', 'taking', 'crypto', 'message', 'today']",Not Scam
+"['dont', 'fall', 'scam']",Scam
+"['scam', 'alert', 'made', 'aware', 'scam', 'impersonating', 'naskila', 'casino', 'using', 'fraudulent', 'ads', 'top', 'games', 'please', 'download', 'app', 'enter', 'payment', 'information', 'actively', 'working', 'issue']",Scam
+"['available', 'pop', 'topic', 'shop', 'items', 'also', 'listed', 'website', 'wwwpoptopicshop']",Not Scam
+"['wed', 'like', 'extend', 'big', 'thank', 'marisadame', 'walked', 'nuestra', 'cultura', 'gala', 'past', 'weekend', 'absolutely', 'rocked', 'look', 'thank', 'representing', 'bluebird', 'boutique', 'beautiful', 'confident', 'way']",Not Scam
+"['quick', 'sneak', 'peek', 'product', 'raffles', 'ill', 'giving', 'away', 'crunchmonroe', 'saturdays', 'pre', 'sale', 'party', 'ampm', 'dont', 'miss', 'opportunity', 'take', 'home', 'amazing', 'hair', 'products']",Not Scam
+"['swipe', 'colours']",Not Scam
+"['packing', 'special', 'custom', 'press', 'set', 'valentines', 'giveaway', 'winner']",Scam
+"['unbeatable', 'deal']",Not Scam
+"['congrats', 'faithwosmek', 'jfr', 'gift', 'card']",Not Scam
+"['win', 'ride', 'along', 'fuelfest', 'tampa', 'florida', 'winners', 'ride', 'driftfactory', 'cars']",Not Scam
